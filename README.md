@@ -28,13 +28,16 @@ Sports-for-Allは、スポーツを誰でも簡単に主催、参加できるア
 https://docs.google.com/document/d/1yaGCCa-KULAVmKbzjPgDIzlaM_vmJLdCGnZcxV92JOM/edit
 
 ◆ER図
-https://drive.google.com/file/d/1wxgy3zux7IQW3ZFdqDQ0PRo2MHNUmoao/view?usp=sharing
+https://app.diagrams.net/#G1wxgy3zux7IQW3ZFdqDQ0PRo2MHNUmoao
 
 ◆テーブル定義書
-
+https://docs.google.com/spreadsheets/d/16dfF9BYiKg4eO6qGJss063Y0BwS6s1AmQSGJs0xX2Yw/edit#gid=485399999
 
 ◆アプリケーション詳細設計
+https://docs.google.com/spreadsheets/d/1AeUtkDEyLHe8nrsHLpl6h5ctbMeQOogPGjkancZcFEo/edit#gid=1458629920
 
+◆ワイヤーフレーム
+https://app.diagrams.net/#G1f0_m5xeNmPpTV6AR26WBWzhlRGhdS1XN
 
 ### 機能一覧
 ◆機能一覧
