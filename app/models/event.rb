@@ -1,6 +1,6 @@
 class Event < ApplicationRecord
   has_many :participation
   has_many :comment
-  has_many :location
-  has_many :type
+  belongs_to :location
+  belongs_to :type
 end
